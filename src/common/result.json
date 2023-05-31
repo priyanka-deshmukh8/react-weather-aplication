@@ -1,0 +1,149 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2018-01-06T10:05:21Z",
+    "lang": "en",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "mi",
+          "pressure": "in",
+          "speed": "mph",
+          "temperature": "F"
+        },
+        "title": "Yahoo! Weather - Nome, AK, US",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2460286/",
+        "description": "Yahoo! Weather for Nome, AK, US",
+        "language": "en-us",
+        "lastBuildDate": "Sat, 06 Jan 2018 01:05 AM AKST",
+        "ttl": "60",
+        "location": {
+          "city": "Nome",
+          "country": "United States",
+          "region": " AK"
+        },
+        "wind": {
+          "chill": "7",
+          "direction": "68",
+          "speed": "25"
+        },
+        "atmosphere": {
+          "humidity": "75",
+          "pressure": "989.0",
+          "rising": "0",
+          "visibility": "16.1"
+        },
+        "astronomy": {
+          "sunrise": "11:52 am",
+          "sunset": "4:24 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Nome, AK, US at 12:00 AM AKST",
+          "lat": "64.499474",
+          "long": "-165.405792",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2460286/",
+          "pubDate": "Sat, 06 Jan 2018 12:00 AM AKST",
+          "condition": {
+            "code": "23",
+            "date": "Sat, 06 Jan 2018 12:00 AM AKST",
+            "temp": "21",
+            "text": "Breezy"
+          },
+          "forecast": [
+            {
+              "code": "23",
+              "date": "06 Jan 2018",
+              "day": "Sat",
+              "high": "22",
+              "low": "18",
+              "text": "Breezy"
+            },
+            {
+              "code": "26",
+              "date": "07 Jan 2018",
+              "day": "Sun",
+              "high": "24",
+              "low": "22",
+              "text": "Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "08 Jan 2018",
+              "day": "Mon",
+              "high": "23",
+              "low": "11",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "23",
+              "date": "09 Jan 2018",
+              "day": "Tue",
+              "high": "10",
+              "low": "4",
+              "text": "Breezy"
+            },
+            {
+              "code": "32",
+              "date": "10 Jan 2018",
+              "day": "Wed",
+              "high": "4",
+              "low": "0",
+              "text": "Sunny"
+            },
+            {
+              "code": "32",
+              "date": "11 Jan 2018",
+              "day": "Thu",
+              "high": "-1",
+              "low": "-2",
+              "text": "Sunny"
+            },
+            {
+              "code": "32",
+              "date": "12 Jan 2018",
+              "day": "Fri",
+              "high": "1",
+              "low": "-1",
+              "text": "Sunny"
+            },
+            {
+              "code": "34",
+              "date": "13 Jan 2018",
+              "day": "Sat",
+              "high": "1",
+              "low": "-3",
+              "text": "Mostly Sunny"
+            },
+            {
+              "code": "26",
+              "date": "14 Jan 2018",
+              "day": "Sun",
+              "high": "12",
+              "low": "2",
+              "text": "Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "15 Jan 2018",
+              "day": "Mon",
+              "high": "13",
+              "low": "2",
+              "text": "Partly Cloudy"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/23.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Breezy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sat - Breezy. High: 22Low: 18\n<BR /> Sun - Cloudy. High: 24Low: 22\n<BR /> Mon - Partly Cloudy. High: 23Low: 11\n<BR /> Tue - Breezy. High: 10Low: 4\n<BR /> Wed - Sunny. High: 4Low: 0\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2460286/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}
